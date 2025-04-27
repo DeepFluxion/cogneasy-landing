@@ -1,0 +1,80 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <rect width="1920" height="1080" fill="url(#gradient)"/>
+  
+  <!-- Pattern elements -->
+  <g opacity="0.1">
+    <!-- Medical crosses pattern -->
+    <g>
+      <path d="M100 100 h40 v-40 h20 v40 h40 v20 h-40 v40 h-20 v-40 h-40 v-20" fill="white"/>
+      <path d="M300 200 h40 v-40 h20 v40 h40 v20 h-40 v40 h-20 v-40 h-40 v-20" fill="white"/>
+      <path d="M500 150 h40 v-40 h20 v40 h40 v20 h-40 v40 h-20 v-40 h-40 v-20" fill="white"/>
+      <path d="M700 250 h40 v-40 h20 v40 h40 v20 h-40 v40 h-20 v-40 h-40 v-20" fill="white"/>
+      <path d="M900 100 h40 v-40 h20 v40 h40 v20 h-40 v40 h-20 v-40 h-40 v-20" fill="white"/>
+      <path d="M1100 200 h40 v-40 h20 v40 h40 v20 h-40 v40 h-20 v-40 h-40 v-20" fill="white"/>
+      <path d="M1300 150 h40 v-40 h20 v40 h40 v20 h-40 v40 h-20 v-40 h-40 v-20" fill="white"/>
+      <path d="M1500 250 h40 v-40 h20 v40 h40 v20 h-40 v40 h-20 v-40 h-40 v-20" fill="white"/>
+      <path d="M1700 100 h40 v-40 h20 v40 h40 v20 h-40 v40 h-20 v-40 h-40 v-20" fill="white"/>
+    </g>
+    
+    <!-- Pills/capsules pattern -->
+    <g>
+      <rect x="200" y="400" width="60" height="20" rx="10" fill="white" transform="rotate(45 230 410)"/>
+      <rect x="600" y="450" width="60" height="20" rx="10" fill="white" transform="rotate(-30 630 460)"/>
+      <rect x="1000" y="400" width="60" height="20" rx="10" fill="white" transform="rotate(15 1030 410)"/>
+      <rect x="1400" y="450" width="60" height="20" rx="10" fill="white" transform="rotate(-45 1430 460)"/>
+    </g>
+    
+    <!-- Hearts/health pattern -->
+    <g>
+      <path d="M400 600 c0-30 20-50 40-50 c15 0 30 10 35 20 c5-10 20-20 35-20 c20 0 40 20 40 50 c0 50-70 90-75 95 c-5-5-75-45-75-95" fill="white"/>
+      <path d="M800 650 c0-30 20-50 40-50 c15 0 30 10 35 20 c5-10 20-20 35-20 c20 0 40 20 40 50 c0 50-70 90-75 95 c-5-5-75-45-75-95" fill="white"/>
+      <path d="M1200 600 c0-30 20-50 40-50 c15 0 30 10 35 20 c5-10 20-20 35-20 c20 0 40 20 40 50 c0 50-70 90-75 95 c-5-5-75-45-75-95" fill="white"/>
+      <path d="M1600 650 c0-30 20-50 40-50 c15 0 30 10 35 20 c5-10 20-20 35-20 c20 0 40 20 40 50 c0 50-70 90-75 95 c-5-5-75-45-75-95" fill="white"/>
+    </g>
+    
+    <!-- AI/tech circuit pattern -->
+    <g>
+      <circle cx="150" cy="800" r="10" fill="white"/>
+      <circle cx="250" cy="850" r="10" fill="white"/>
+      <circle cx="350" cy="800" r="10" fill="white"/>
+      <line x1="160" y1="800" x2="240" y2="850" stroke="white" stroke-width="4"/>
+      <line x1="260" y1="850" x2="340" y2="800" stroke="white" stroke-width="4"/>
+      
+      <circle cx="950" cy="850" r="10" fill="white"/>
+      <circle cx="1050" cy="800" r="10" fill="white"/>
+      <circle cx="1150" cy="850" r="10" fill="white"/>
+      <line x1="960" y1="850" x2="1040" y2="800" stroke="white" stroke-width="4"/>
+      <line x1="1060" y1="800" x2="1140" y2="850" stroke="white" stroke-width="4"/>
+      
+      <circle cx="1750" cy="800" r="10" fill="white"/>
+      <circle cx="1850" cy="850" r="10" fill="white"/>
+      <line x1="1760" y1="800" x2="1840" y2="850" stroke="white" stroke-width="4"/>
+    </g>
+    
+    <!-- Calendar/schedule pattern -->
+    <g>
+      <rect x="500" y="750" width="100" height="100" rx="10" fill="white"/>
+      <rect x="510" y="760" width="80" height="20" fill="#4A90E2"/>
+      <rect x="510" y="790" width="20" height="20" fill="#50C878"/>
+      <rect x="540" y="790" width="20" height="20" fill="#50C878"/>
+      <rect x="570" y="790" width="20" height="20" fill="#50C878"/>
+      <rect x="510" y="820" width="20" height="20" fill="#50C878"/>
+      
+      <rect x="1300" y="750" width="100" height="100" rx="10" fill="white"/>
+      <rect x="1310" y="760" width="80" height="20" fill="#4A90E2"/>
+      <rect x="1310" y="790" width="20" height="20" fill="#50C878"/>
+      <rect x="1340" y="790" width="20" height="20" fill="#50C878"/>
+      <rect x="1370" y="790" width="20" height="20" fill="#50C878"/>
+      <rect x="1310" y="820" width="20" height="20" fill="#50C878"/>
+    </g>
+  </g>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1920" y2="1080" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4A90E2"/>
+      <stop offset="100%" stop-color="#50C878"/>
+    </linearGradient>
+  </defs>
+</svg>
